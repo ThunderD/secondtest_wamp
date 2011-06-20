@@ -1,0 +1,4 @@
+name = abbaarrrr
+description = tester det sjovt
+core = 7.x
+files[] = twominutes.module
